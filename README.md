@@ -1,2 +1,2 @@
-# ahk2
-My ahk scripts
+# AHK2
+My AHK V2 scripts
